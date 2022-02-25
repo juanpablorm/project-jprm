@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-loco
 =======
 Hola que hace mi pana loco
 >>>>>>> omg
